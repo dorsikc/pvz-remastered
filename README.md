@@ -1,1 +1,1 @@
-# pvz-remastered
+# PVZ - Remastered Edition
